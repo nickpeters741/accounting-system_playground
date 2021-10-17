@@ -1,0 +1,216 @@
+ .contents {
+    width: 210mm;
+  }
+/*html, body {
+    width: 210mm;
+    height: 297mm;
+  }*/
+.p-order{ 
+  padding: 2mm !important;
+    margin: 2mm !important; 
+    width: 100% !important;
+    /*height: 100% !important;*/
+    background: #FFF; 
+  }
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border : 1px solid #753f91;
+    padding: 3px;
+  }
+  .table> thead > tr >th {
+    background: #fff;
+    color: #753f91;
+    border-right: 1px solid  #753f91;
+  }
+  .text-center{
+    text-align: center;
+  }
+  #inv-footer{
+    position:fixed; 
+    bottom:5px;
+    width: 99%; 
+    height:40px;
+    border-top: 2px solid #753f91; 
+    color: #753f91;
+  }
+  .terms{ 
+    position: fixed;
+    bottom: 50px; 
+    height:auto;  
+  }
+
+  .pull-left{
+    text-align: left;
+  }
+  .pull-right{
+    text-align: right;
+  }
+  
+  span { 
+    padding: 0px;
+    font-size: 12px;
+  }
+  .addr{
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .inv-row{
+    background-color:#753f91;
+    color: #fff;
+  }
+   p.break {
+      page-break-after: always;
+    }
+
+.hide { display: none!important; }
+
+.text-center { text-align: center !important; }
+.text-left { text-align: left !important; }
+.text-right { text-align: right !important; }
+
+.pull-left { float: left !important; }
+.pull-right { float: right !important; }
+.pull-none { float: none !important; }
+
+
+@media print { 
+  /*html, body {
+    width: 210mm;
+    height: 297mm;
+  }
+   p.break {
+      page-break-after: always;
+    }
+  .table {
+    width: 95%;
+    border-collapse: collapse;
+  }
+  .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border: 1.5px solid #753f91 !important;
+    padding: 4px;
+  }
+  .table> thead > tr >th {
+    background: #753f91;
+    color: #fff;
+    border-right: 1.5px solid  #fff;
+  } 
+  .hidden-print {
+    display: none !important;
+  }
+  .sidebar,
+  .top-menu,
+  .header,
+  .theme-panel {
+    display: none !important;
+  }
+  .content{
+    margin : 2mm  !important;
+  }
+  .p-order{ 
+    padding: 2mm !important;
+    margin: 2mm !important; 
+    width: 98% !important;
+    height: 100% !important; 
+    background: #FFF; 
+  }
+  .terms{ 
+    position: fixed;
+    bottom: 55px; 
+    height:auto;  
+  } 
+  #inv-footer {
+    position:fixed; 
+    bottom:5px;
+    width: 99%; 
+    height:48px;
+    border-top: 2px solid #753f91; 
+    color: #753f91;
+  }
+
+  .inv-row{
+    background-color:#753f91;
+    color: #fff;
+  }*/
+  
+.hide { display: none!important; }
+
+.text-center { text-align: center !important; }
+.text-left { text-align: left !important; }
+.text-right { text-align: right !important; }
+
+.pull-left { float: left !important; }
+.pull-right { float: right !important; }
+.pull-none { float: none !important; }
+
+  .contents {
+    width: 210mm;
+  }
+/*html, body {
+    width: 210mm;
+    height: 297mm;
+  }*/
+.p-order{ 
+  padding: 2mm !important;
+    margin: 2mm !important; 
+    width: 100% !important;
+    /*height: 100% !important;*/
+    background: #FFF; 
+  }
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border : 1px solid #753f91;
+    padding: 3px;
+  }
+  .table> thead > tr >th {
+    background: #fff;
+    color: #753f91;
+    border-right: 1px solid  #753f91;
+  }
+  .text-center{
+    text-align: center;
+  }
+  #inv-footer{
+    position:fixed; 
+    bottom:5px;
+    width: 99%; 
+    height:40px;
+    border-top: 2px solid #753f91; 
+    color: #753f91;
+  }
+  .terms{ 
+    position: fixed;
+    bottom: 50px; 
+    height:auto;  
+  }
+
+  .pull-left{
+    text-align: left;
+  }
+  .pull-right{
+    text-align: right;
+  }
+  
+  span { 
+    padding: 0px;
+    font-size: 12px;
+  }
+  .addr{
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .inv-row{
+    background-color:#753f91;
+    color: #fff;
+  }
+   p.break {
+      page-break-after: always;
+    }
+}

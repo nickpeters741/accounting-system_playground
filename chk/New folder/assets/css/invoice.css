@@ -1,0 +1,120 @@
+.header, 
+.header-space,
+.footer, 
+.footer-space {
+  height:28%;
+}
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 28%;
+}
+.footer {
+  position:fixed;
+  text-align: center;
+  bottom:5px;
+  width: 99%;
+  height:80px;
+  border-top: 2px solid #753f91;
+  color: #753f91;
+}
+p.break {
+  page-break-after: always;
+}
+.table {
+  width: 95%;
+  border-collapse: collapse;
+}
+.terms{ 
+  bottom: 50px; 
+  height:auto;  
+}
+.table > thead > tr > th, 
+.table > tbody > tr > th, 
+.table > tfoot > tr > th, 
+.table > thead > tr > td, 
+.table > tbody > tr > td, 
+.table > tfoot > tr > td {
+  border : 1px solid #753f91;
+}
+.table> thead > tr >th {
+  background: #753f91;
+  color: #fff;
+  border : 1px solid #753f91;
+  padding: 3px;
+  border-right: 1px solid  #fff;
+}  
+.addr{
+  padding-left: 6px;
+  padding-right: 6px;
+}
+.text-center{
+  text-align: center;
+}  
+body{
+  font-size: 12px;
+}
+@media print { 
+  .table > thead > tr > th, 
+  .table > tbody > tr > th, 
+  .table > tfoot > tr > th, 
+  .table > thead > tr > td, 
+  .table > tbody > tr > td, 
+  .table > tfoot > tr > td {
+    border : 1.5px solid #753f91;
+    padding: 3px;
+  }
+  .table {
+    width: 99%;
+    border-collapse: collapse;
+  }  
+  .addr{
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  .table> thead > tr >th {
+    background: #753f91;
+    color: #fff;
+    border : 1.5px solid #753f91;
+    /*padding: 3px;
+    border-right: 1px solid  #fff;*/
+  }
+  .header, .header-space{
+    height: 80px;
+  }
+  .footer, .footer-space {
+    height: 80px;
+  }
+  .header {
+    position: fixed;
+    top: 0;
+    width: 99%;
+    height: 135px;
+  }
+  .footer {
+    position:fixed;
+    text-align: center;
+    bottom:0.5px;
+    width: 99%; 
+    height:70px;
+    border-top: 2px solid #753f91;
+    color: #753f91;
+  }
+  p.break {
+    page-break-after: always;
+  }
+  .text-center{
+    text-align: center;
+  }
+  body{
+    font-size: 12px;
+  }
+  .terms{ 
+    position: relative; 
+    bottom: 50px; 
+    height:auto; 
+  }
+}
+ 
+

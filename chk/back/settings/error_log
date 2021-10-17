@@ -1,0 +1,226 @@
+[03-Aug-2020 04:05:29 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[03-Aug-2020 04:05:29 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 16
+[03-Aug-2020 04:05:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 24
+[03-Aug-2020 04:05:29 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 26
+[03-Aug-2020 04:05:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 27
+[03-Aug-2020 12:05:29 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[03-Aug-2020 12:05:29 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 8
+[03-Aug-2020 04:05:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[03-Aug-2020 04:05:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 16
+[03-Aug-2020 04:05:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 24
+[03-Aug-2020 04:05:34 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 26
+[03-Aug-2020 04:05:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 27
+[03-Aug-2020 12:05:34 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[03-Aug-2020 12:05:34 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 8
+[03-Aug-2020 04:06:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[03-Aug-2020 04:06:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 16
+[03-Aug-2020 04:06:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 24
+[03-Aug-2020 04:06:12 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 26
+[03-Aug-2020 04:06:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 27
+[03-Aug-2020 12:06:12 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[03-Aug-2020 12:06:12 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 8
+[03-Aug-2020 04:12:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[03-Aug-2020 04:12:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 16
+[03-Aug-2020 04:12:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 24
+[03-Aug-2020 04:12:12 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 26
+[03-Aug-2020 04:12:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 27
+[03-Aug-2020 12:12:12 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[03-Aug-2020 12:12:12 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 8
+[03-Aug-2020 04:12:17 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[03-Aug-2020 04:12:17 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 16
+[03-Aug-2020 04:12:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 24
+[03-Aug-2020 04:12:17 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 26
+[03-Aug-2020 04:12:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 27
+[03-Aug-2020 12:12:17 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[03-Aug-2020 12:12:17 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 8
+[03-Aug-2020 04:28:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[03-Aug-2020 04:28:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 16
+[03-Aug-2020 04:28:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 24
+[03-Aug-2020 04:28:34 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 26
+[03-Aug-2020 04:28:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 27
+[03-Aug-2020 12:28:34 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[03-Aug-2020 12:28:34 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 8
+[08-Aug-2020 00:38:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[08-Aug-2020 00:38:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[08-Aug-2020 00:38:25 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 15
+[08-Aug-2020 00:38:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 17
+[08-Aug-2020 08:38:25 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[08-Aug-2020 08:38:25 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 13
+[08-Aug-2020 00:41:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[08-Aug-2020 00:41:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[08-Aug-2020 00:41:46 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 15
+[08-Aug-2020 00:41:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 17
+[08-Aug-2020 08:41:46 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[08-Aug-2020 08:41:46 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 13
+[08-Aug-2020 00:43:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[08-Aug-2020 00:43:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 2
+[08-Aug-2020 00:43:48 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 9
+[08-Aug-2020 00:43:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 10
+[08-Aug-2020 08:43:48 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[08-Aug-2020 08:43:48 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 13
+[08-Aug-2020 00:51:23 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[08-Aug-2020 00:51:23 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 2
+[08-Aug-2020 00:51:23 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 10
+[08-Aug-2020 00:51:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 11
+[08-Aug-2020 08:51:23 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[08-Aug-2020 08:51:23 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 13
+[08-Aug-2020 00:52:49 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 2
+[08-Aug-2020 00:52:49 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 2
+[08-Aug-2020 00:52:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 10
+[08-Aug-2020 08:52:49 Africa/Nairobi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/settings.php:1) in /home1/kteninve/sys/ksoftnew/inc/gen_funcs.php on line 4
+[08-Aug-2020 08:52:49 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/clude/head.php on line 13
+[10-Aug-2020 15:16:57 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[10-Aug-2020 15:16:57 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[10-Aug-2020 07:17:00 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[10-Aug-2020 07:17:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[10-Aug-2020 07:17:00 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 5
+[10-Aug-2020 07:17:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 5
+[10-Aug-2020 07:17:02 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[10-Aug-2020 07:17:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[10-Aug-2020 07:17:02 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[10-Aug-2020 07:17:02 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[10-Aug-2020 07:17:04 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[10-Aug-2020 07:17:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/a4.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[10-Aug-2020 07:17:04 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 4
+[10-Aug-2020 07:17:04 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 4
+[10-Aug-2020 07:17:05 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[10-Aug-2020 07:17:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[10-Aug-2020 15:17:05 Africa/Nairobi] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php on line 6
+[10-Aug-2020 15:17:05 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php on line 6
+[10-Aug-2020 07:17:07 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[10-Aug-2020 07:17:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[10-Aug-2020 15:17:07 Africa/Nairobi] PHP Notice:  Undefined variable: row in /home1/kteninve/sys/ksoftnew/back/settings/db_set.php on line 20
+[10-Aug-2020 15:17:07 Africa/Nairobi] PHP Notice:  Undefined variable: row in /home1/kteninve/sys/ksoftnew/back/settings/db_set.php on line 24
+[10-Aug-2020 07:17:09 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[10-Aug-2020 07:17:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[10-Aug-2020 15:17:09 Africa/Nairobi] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/pay_method.php on line 23
+[10-Aug-2020 15:17:09 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/pay_method.php on line 23
+[12-Aug-2020 12:09:07 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[12-Aug-2020 12:09:07 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[12-Aug-2020 04:09:09 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:09:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:09:09 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 5
+[12-Aug-2020 04:09:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 5
+[12-Aug-2020 04:09:19 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:09:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:09:19 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 5
+[12-Aug-2020 04:09:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 5
+[12-Aug-2020 04:09:57 America/Chicago] PHP Notice:  Undefined index: mpesa in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 209
+[12-Aug-2020 04:09:57 America/Chicago] PHP Notice:  Undefined index: mpesa in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 217
+[12-Aug-2020 04:10:05 America/Chicago] PHP Notice:  Undefined index: mpesa in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 209
+[12-Aug-2020 04:10:05 America/Chicago] PHP Notice:  Undefined index: mpesa in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 217
+[12-Aug-2020 04:12:09 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 11
+[12-Aug-2020 04:12:09 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 12
+[12-Aug-2020 04:13:02 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[12-Aug-2020 04:13:02 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[12-Aug-2020 04:13:17 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[12-Aug-2020 04:13:17 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[12-Aug-2020 04:17:49 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[12-Aug-2020 04:17:49 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[12-Aug-2020 04:17:53 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:17:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:17:53 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[12-Aug-2020 04:17:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[12-Aug-2020 04:18:00 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:18:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:18:00 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[12-Aug-2020 04:18:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[12-Aug-2020 04:18:33 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:18:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:18:33 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[12-Aug-2020 04:18:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 3
+[12-Aug-2020 04:21:25 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 8
+[12-Aug-2020 04:21:25 America/Chicago] PHP Notice:  Undefined index: kra-pin in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 12
+[12-Aug-2020 04:21:25 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 14
+[12-Aug-2020 04:21:25 America/Chicago] PHP Notice:  Undefined variable: set_print_r in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 108
+[12-Aug-2020 04:21:29 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:21:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/a4.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:21:29 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 4
+[12-Aug-2020 04:21:29 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 4
+[12-Aug-2020 04:21:38 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:21:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/back/settings/a4.php:1) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 04:21:38 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 4
+[12-Aug-2020 04:21:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 4
+[12-Aug-2020 12:22:13 Africa/Nairobi] PHP Notice:  Undefined variable: ord_date in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 313
+[12-Aug-2020 12:22:20 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to undefined function get_id() in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php:43
+Stack trace:
+#0 {main}
+  thrown in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php on line 43
+[12-Aug-2020 12:23:34 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[12-Aug-2020 12:23:34 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[12-Aug-2020 12:24:09 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to undefined function get_id() in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php:43
+Stack trace:
+#0 {main}
+  thrown in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php on line 43
+[12-Aug-2020 04:24:11 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 8
+[12-Aug-2020 04:24:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/kteninve/sys/ksoftnew/inc/connection.php:8) in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 12
+[12-Aug-2020 12:24:11 Africa/Nairobi] PHP Notice:  Undefined variable: row in /home1/kteninve/sys/ksoftnew/back/settings/db_set.php on line 20
+[12-Aug-2020 12:24:11 Africa/Nairobi] PHP Notice:  Undefined variable: row in /home1/kteninve/sys/ksoftnew/back/settings/db_set.php on line 24
+[13-Aug-2020 12:08:16 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[13-Aug-2020 12:08:16 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[13-Aug-2020 12:09:15 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[13-Aug-2020 12:09:15 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[13-Aug-2020 04:09:18 America/Chicago] PHP Notice:  Undefined index: mpesa in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 209
+[13-Aug-2020 04:09:18 America/Chicago] PHP Notice:  Undefined index: mpesa in /home1/kteninve/sys/ksoftnew/back/settings/gen_set.php on line 217
+[13-Aug-2020 04:14:30 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[13-Aug-2020 04:14:30 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[13-Aug-2020 04:23:15 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 8
+[13-Aug-2020 04:23:15 America/Chicago] PHP Notice:  Undefined index: kra-pin in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 12
+[13-Aug-2020 04:23:15 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 14
+[13-Aug-2020 04:23:15 America/Chicago] PHP Notice:  Undefined variable: set_print_r in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 108
+[13-Aug-2020 12:24:09 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[13-Aug-2020 12:24:09 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[13-Aug-2020 12:25:41 Africa/Nairobi] PHP Notice:  Undefined variable: ord_date in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 313
+[13-Aug-2020 12:25:47 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to undefined function get_id() in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php:43
+Stack trace:
+#0 {main}
+  thrown in /home1/kteninve/sys/ksoftnew/back/settings/sales_set.php on line 43
+[13-Aug-2020 04:26:30 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[13-Aug-2020 04:26:30 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[13-Aug-2020 05:01:13 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[13-Aug-2020 05:01:13 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[13-Aug-2020 17:24:22 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[13-Aug-2020 17:24:22 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[13-Aug-2020 09:31:04 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[13-Aug-2020 09:31:04 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[13-Aug-2020 09:38:49 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[13-Aug-2020 09:38:49 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[13-Aug-2020 09:38:49 America/Chicago] PHP Notice:  Undefined variable: path in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 77
+[13-Aug-2020 09:39:27 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 19
+[13-Aug-2020 09:39:27 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 21
+[13-Aug-2020 09:41:25 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 8
+[13-Aug-2020 09:41:25 America/Chicago] PHP Notice:  Undefined index: kra-pin in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 12
+[13-Aug-2020 09:41:25 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 14
+[13-Aug-2020 09:41:25 America/Chicago] PHP Notice:  Undefined variable: set_print_r in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 108
+[13-Aug-2020 09:41:26 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 8
+[13-Aug-2020 09:41:26 America/Chicago] PHP Notice:  Undefined index: kra-pin in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 12
+[13-Aug-2020 09:41:26 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 14
+[13-Aug-2020 09:41:26 America/Chicago] PHP Notice:  Undefined variable: set_print_r in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 108
+[13-Aug-2020 17:41:47 Africa/Nairobi] PHP Notice:  Undefined variable: ord_date in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 313
+[18-Aug-2020 22:14:35 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[18-Aug-2020 22:14:35 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[18-Aug-2020 14:14:54 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 11
+[18-Aug-2020 14:14:54 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 12
+[18-Aug-2020 22:26:29 Africa/Nairobi] PHP Notice:  Undefined variable: ord_date in /home1/kteninve/sys/ksoftnew/back/settings/a4.php on line 313
+[18-Aug-2020 14:26:34 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 8
+[18-Aug-2020 14:26:34 America/Chicago] PHP Notice:  Undefined index: kra-pin in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 12
+[18-Aug-2020 14:26:34 America/Chicago] PHP Notice:  Undefined index: mpesa-select in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 14
+[18-Aug-2020 14:26:34 America/Chicago] PHP Notice:  Undefined variable: set_print_r in /home1/kteninve/sys/ksoftnew/back/settings/thermal_act.php on line 108
+[18-Aug-2020 15:09:08 America/Chicago] PHP Notice:  Undefined index: db in /home1/kteninve/sys/ksoftnew/inc/connection.php on line 9
+[18-Aug-2020 15:09:08 America/Chicago] PHP Notice:  Undefined variable: connection in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 5
+[18-Aug-2020 15:09:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/kteninve/sys/ksoftnew/back/settings/thermal.php on line 5
+[27-Aug-2020 11:15:31 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[27-Aug-2020 11:15:31 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[10-Sep-2020 19:27:18 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[10-Sep-2020 19:27:18 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[10-Sep-2020 11:30:50 America/Chicago] PHP Notice:  Undefined index: logo in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 11
+[10-Sep-2020 11:30:50 America/Chicago] PHP Notice:  Undefined index: pin in /home1/kteninve/sys/ksoftnew/back/settings/gen_set_act.php on line 12
+[15-Oct-2020 11:41:57 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[15-Oct-2020 11:41:57 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[28-Oct-2020 15:18:06 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[28-Oct-2020 15:18:06 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[28-Oct-2020 15:19:14 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[28-Oct-2020 15:19:14 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[28-Oct-2020 15:19:24 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7
+[28-Oct-2020 15:19:24 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/menu.php on line 31
+[03-Dec-2020 11:55:19 Africa/Nairobi] PHP Notice:  Undefined index: dash in /home1/kteninve/sys/ksoftnew/back/clude/header.php on line 7

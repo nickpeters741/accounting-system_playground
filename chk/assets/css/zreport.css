@@ -1,0 +1,148 @@
+.header, .header-space{
+  height:50px;
+}
+.footer, .footer-space {
+  height:180px;
+}
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 200px;
+}
+ h4 {
+  margin: 1px;
+}
+.footer {
+    position:fixed;
+    text-align: center; 
+    bottom:5px;
+    width: 99%; 
+    height:80px;
+    border-top: 2px solid #753f91; 
+    color: #753f91;
+  }
+p.break {
+      page-break-after: always;
+    }
+     .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .terms{ 
+    bottom: 50px; 
+    height:auto;  
+  }
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border : 1px solid #753f91;
+    /*padding: 3px;*/
+    font-size: 12px;
+  }
+  .table> thead > tr >th {
+    background: #753f91;
+    color: #fff;
+    border : 1px solid #753f91;
+    padding: 3px;
+    border-right: 1px solid  #fff;
+
+    font-size: 12px;
+  }  .addr{
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  .text-center{
+    text-align: center;
+  }  body{
+    
+    font-size: 12px;
+  }
+  .col-md-6 {
+  float: left;
+  width: 31%; 
+  margin-right: 2px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ p.break {
+      page-break-after: always;
+    }
+@media print { 
+ p.break {
+      page-break-after: always;
+    }
+  .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border : 1px solid #753f91;
+    padding: 3px;
+  }
+   .table {
+    width: 100%;
+    border-collapse: collapse;
+  }  
+  .addr{
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  .table> thead > tr >th {
+    background: #753f91;
+    color: #fff;
+    border : 1.5px solid #753f91;
+    /*padding: 3px;*/
+    /*border-right: 1px solid  #fff;*/
+
+    font-size: 12px;
+  }
+  .header, .header-space{
+    height: 30px; 
+  }
+  .footer, .footer-space {
+    height: 80px;
+  }
+  .header {
+  position: fixed;
+  top: 0;
+  width: 99%;
+  height: 220px;
+}
+  .footer {
+    position:fixed;
+    text-align: center; 
+    bottom:5px;
+    width: 99%; 
+    height:80px;
+    border-top: 2px solid #753f91; 
+    color: #753f91;
+  }
+  p.break {
+      page-break-after: always;
+    }
+    .text-center{
+    text-align: center;
+  }
+  body{
+
+    font-size: 12px;
+  }
+  .terms{ 
+    position: relative; 
+    bottom: 50px; 
+    height:auto;  
+  }
+  .col-md-6 {
+  float: left;
+  width: 33%; 
+  margin: 5px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ 
+}
