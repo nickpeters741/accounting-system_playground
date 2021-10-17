@@ -44,7 +44,7 @@ choose `sales` and it should lead you to the dashboard with the following:
     - Store credit
  7. Reports :this hold detailed reports of company day to day business
 
- ![](https://photos.google.com/photo/AF1QipNEnUa0bpOlqb_XOyPMWJhDxi6B9lrmOcg3Z82q)  
+ ![](https://photos.app.goo.gl/RY1xn57cJpgriScg8)  
 
  # Backend 
  this contains a pRoposed idea of what the employees could use to make sales and track business.
