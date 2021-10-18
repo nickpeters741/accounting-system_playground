@@ -11,7 +11,7 @@ The site has been hosted on one of my subdomains [here](http://chk.nwhdental.com
 
 ### `login`
 default password is : `1234`
-![](https://photos.google.com/photo/AF1QipN1F8s3lQueTrXRZxtU3CsHKmZB-aSXg6Xjpcnq)
+![](https://scontent.fmba5-1.fna.fbcdn.net/v/t1.6435-9/246413394_143564048000727_6842040854379755874_n.png?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_aid=0&_nc_eui2=AeF1J3oaRb3HOC15zPo_AE1JT6YJxn-7vpZPpgnGf7u-lnq91mSmwa1rScqAmQe_0mjx2fIv1fwnk6zm3WVleSuG&_nc_ohc=LZO1Pi29nDEAX9io2As&_nc_pt=5&_nc_ht=scontent.fmba5-1.fna&oh=99a0fc596860c90758f782a653b3267d&oe=619159E6)
 
 NB: `the password only works on one machine per login as set`
 once loged in the picture below should appear
