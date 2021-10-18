@@ -16,7 +16,7 @@ default password is : `1234`
 NB: `the password only works on one machine per login as set`
 once loged in the picture below should appear
 
-![](https://photos.google.com/photo/AF1QipNDshV28JSoXQqz-prlL813PQK-lXn9L7Av2r6O)
+![](https://scontent.fmba5-1.fna.fbcdn.net/v/t1.6435-9/246134459_143564018000730_8058541443778163045_n.png?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_aid=0&_nc_eui2=AeF4i90gIIVYDn4n5k8OxVxSoFD-uIzHyaKgUP64jMfJoo2i9zpi6aWjOWxJEjjA7TKdj9NFuSCAZiW1TB_SRw1N&_nc_ohc=-00UE-XNxYkAX9pzSQ7&_nc_pt=5&_nc_ht=scontent.fmba5-1.fna&oh=f8b2dee53baa6f02572f4e2771de0667&oe=6193D18A)
 choose `sales` and it should lead you to the dashboard with the following:
  1. Make Sale -here you can generate  ;
     - receipt
@@ -44,15 +44,16 @@ choose `sales` and it should lead you to the dashboard with the following:
     - Store credit
  7. Reports :this hold detailed reports of company day to day business
 
- ![](https://photos.app.goo.gl/RY1xn57cJpgriScg8)  
+ ![](https://scontent.fmba5-1.fna.fbcdn.net/v/t1.6435-9/246978753_143564044667394_8213492680792121036_n.png?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFu69br5cLQIOPrR79nYPDAV5CU8M6APoZXkJTwzoA-hrEdyUIPgs0lviNXql96ZDSPNUtSfuDHspf0cX1mjBYF&_nc_ohc=Ob8okYnqKQMAX_Q22AG&_nc_pt=5&_nc_ht=scontent.fmba5-1.fna&oh=79b17e0801007d44469d4e8564138f26&oe=61915FB6)  
 
- # Backend 
+# Backend 
  this contains a pRoposed idea of what the employees could use to make sales and track business.
- ![](https://photos.google.com/photo/AF1QipNEnUa0bpOlqb_XOyPMWJhDxi6B9lrmOcg3Z82q)
+ ![](https://scontent.fmba5-1.fna.fbcdn.net/v/t1.6435-9/246369952_143564098000722_1653075631323691866_n.png?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_aid=0&_nc_eui2=AeGXheOL73VhrWuz9x8KJEUjfwcJpZ5Mjzh_BwmlnkyPODO5tq4OXiSlupPWRcd18nUkuCyn1kAoTK9JqhrETmdi&_nc_ohc=B-1xKov2QIsAX_Q5qBO&_nc_pt=5&_nc_ht=scontent.fmba5-1.fna&oh=d8e6b9fc432ccab635059f4b0befd352&oe=6191A64C)
 
  # DATABASE
  Used phpmyadmin . 
  With the databse file you can reconfigure setting on any hosting phpmyadmin server as follows;
+You can download database by [clicking here](https://drive.google.com/file/d/1pH5I6pQjQ0adXW50Y-MuxZ0rQgf-Utx6/view?usp=sharing)
  
  ```sql
  <?php 
